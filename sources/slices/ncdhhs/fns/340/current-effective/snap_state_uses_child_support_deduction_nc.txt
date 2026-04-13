@@ -1,0 +1,19 @@
+North Carolina SNAP child support deduction election under NCDHHS FNS 340
+Deductions section 340.19 for period 2026-01.
+
+Use monthly SNAP period 2026-01.
+
+North Carolina Department of Health and Human Services, Food and Nutrition
+Services Certification, Income and Resources, FNS 340 Deductions, Change
+#03-2025, effective December 1, 2025:
+
+Allow an income deduction for legally obligated child support payments,
+including arrearages, that the FNS unit member anticipates paying to or for a
+non-household FNS unit member.
+
+Allow as an income deduction the child support actually paid, including
+arrearages, by the FNS unit member.
+
+Model `snap_state_uses_child_support_deduction` as whether North Carolina
+elects the SNAP child-support deduction treatment under this current-effective
+state policy.

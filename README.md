@@ -9,6 +9,7 @@ state-specific encodings live here.
 ## Current scope
 
 - NCDHHS FNS 360 source slices for North Carolina SNAP utility allowances
+- NCDHHS FNS 340 source slices for North Carolina SNAP child-support deduction treatment
 - jurisdiction-local source corpus for North Carolina SNAP overlays
 
 ## Layout
