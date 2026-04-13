@@ -10,6 +10,7 @@ state-specific encodings live here.
 
 - NCDHHS FNS 360 source slices for North Carolina SNAP utility allowances
 - NCDHHS FNS 340 source slices for North Carolina SNAP child-support deduction treatment
+- NCDHHS FNS 315 source slices for North Carolina SNAP self-employment expense treatment
 - jurisdiction-local source corpus for North Carolina SNAP overlays
 
 ## Layout

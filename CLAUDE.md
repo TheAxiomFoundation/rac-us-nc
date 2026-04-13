@@ -8,6 +8,7 @@ North Carolina benefit-program source and encodings live here.
 - federal program cores remain in `rac-us`
 - keep North Carolina source slices in this repo even when the underlying
   program is federal
+- North Carolina SNAP state-option and self-employment-treatment slices belong here
 
 ## Layout
 

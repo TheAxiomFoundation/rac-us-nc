@@ -1,0 +1,21 @@
+North Carolina SNAP self-employment expense option under NCDHHS FNS 315
+section 315.28 for period 2026-01.
+
+Use monthly SNAP period 2026-01.
+
+North Carolina Department of Health and Human Services, Food and Nutrition
+Services Certification, Income and Resources, FNS 315 Special Budgeting, Change
+#01-2022:
+
+Compute the total gross farm income and subtract the allowable costs of doing
+business.
+
+Allowable costs of doing business include costs of maintaining a place of
+business, principal and interest paid on loans used to purchase income
+producing equipment and property, taxes paid on income producing property,
+employee labor costs, cost of goods, supplies, materials, transportation costs
+necessary to produce income, and other listed business costs.
+
+Model `snap_self_employment_expense_based_deduction_applies` as whether North
+Carolina allows actual self-employment business expenses to be deducted under
+current-effective SNAP policy.
