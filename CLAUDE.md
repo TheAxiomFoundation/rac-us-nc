@@ -1,4 +1,4 @@
-# rules-us-nc Agent Notes
+# rulespec-us-nc Agent Notes
 
 This repo stores North Carolina RuleSpec source registry materials and related policy metadata.
 
